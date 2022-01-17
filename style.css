@@ -2,11 +2,11 @@
   margin-top:0.5em;
   content: "";
   float:left;
-  border:1.5em solid #fff;
+  border:1.5em solid #111;
 }
 
 .ribbon:after {
-  border-right-color:#111;
+  border-right-color:transparent;
 }
 
 .ribbon:before {
@@ -20,7 +20,7 @@
   overflow:hidden;
 }
 .ribbon span {
-  background:#fff;
+  background:#111;
   display:inline-block;
   line-height:3em;
   padding:0 1em;
