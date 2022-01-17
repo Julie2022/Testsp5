@@ -7,8 +7,19 @@
   <script src="script.js"></script>
 </head>
 <body>
-  ...
-  <!-- Le reste du contenu -->
-  ...
+  .ribbon:after, .ribbon:before {
+  margin-top:0.5em;
+  content: "";
+  float:left;
+  border:1.5em solid #fff;
+}
+
+.ribbon:after {
+  border-right-color:transparent;
+}
+
+.ribbon:before {
+  border-left-color:transparent;
+}
 </body>
 </html>
