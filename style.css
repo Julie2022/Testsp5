@@ -15,11 +15,11 @@
 }
 
 .ribbon:after {
-  border-right-color:transparent;
+  border-right-color:currentColor;
 }
 
 .ribbon:before {
-  border-left-color:transparent;
+  border-left-color:currentColor;
 }
 .ribbon a:link, .ribbon a:visited { 
   color:#000;
