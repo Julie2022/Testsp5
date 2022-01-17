@@ -7,6 +7,8 @@
   <script src="script.js"></script>
 </head>
 <body>
+
+<p>
   .ribbon:after, .ribbon:before {
   margin-top:0.5em;
   content: "";
@@ -60,5 +62,8 @@
   border-left:0.5em solid #9B8651;
   border-bottom:0.5em solid #fff;
 }
+
+</p>
+
 </body>
 </html>
