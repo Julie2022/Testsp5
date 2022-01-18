@@ -64,19 +64,23 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 </div>;
 /* Fin CSS Menu */
 
-/* Titre début de page */
-.Titre-débutpage { 
-  text-align: center;
-  }
-font-family: 'Neonderthaw', cursive;
-
-/* Fin Titre début de page */
-
-/* Img moi */
-.Imgmoi { 
-  text-align: center;
-  }
-.Imgmoi img{
-  }
-
-/* Fin Img moi */
+h1{
+  font-size:3rem;
+  margin-top:45vh;
+  color:white;
+ font-family: 'Neonderthaw', cursive;
+  animation-name:glow;
+  animation-duration:1s;
+  animation-iteration-count:infinite;
+  animation-direction:alternate;
+}
+h2{
+  font-size:3rem;
+  margin-top:45vh;
+  color:white;
+  font-family: 'Merienda', cursive;
+  animation-name:glow;
+  animation-duration:1s;
+  animation-iteration-count:infinite;
+  animation-direction:alternate;
+}
