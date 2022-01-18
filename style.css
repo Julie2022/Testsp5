@@ -31,7 +31,7 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
   overflow:hidden;
 }
 .ribbon span {
-  background:##fbab7e;
+  background:#bc68ee;
   display:inline-block;
   line-height:3em;
   padding:0 1em;
@@ -41,7 +41,7 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 }
 
 .ribbon a:hover span {
-  background:#fbab7e;
+  background:#bc68ee;
   margin-top:0;
 }
 
