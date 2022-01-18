@@ -5,9 +5,9 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 }
 
 @font-face {
-  font-family: "best";
+  font-family: "Neonderthaw";
   font-style: normal;
-  src: url('fonts/best.otf');
+  src: url('https://fonts.google.com/specimen/Neonderthaw?preview.text=Bienv&preview.text_type=custom');
 }  
 
 /* CSS Menu */
