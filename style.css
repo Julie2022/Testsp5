@@ -65,20 +65,11 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 /* Fin CSS Menu */
 
 h1{
+font-family: 'Neonderthaw', cursive;
   font-size:3rem;
   margin-top:45vh;
   color:white;
- font-family: 'Neonderthaw', cursive;
-  animation-name:glow;
-  animation-duration:1s;
-  animation-iteration-count:infinite;
-  animation-direction:alternate;
-}
-h2{
-  font-size:3rem;
-  margin-top:45vh;
-  color:white;
-  font-family: 'Merienda', cursive;
+  /* font-family: 'Neonderthaw', cursive; */
   animation-name:glow;
   animation-duration:1s;
   animation-iteration-count:infinite;
