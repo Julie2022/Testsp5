@@ -10,6 +10,12 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
   src: url('https://fonts.google.com/specimen/Neonderthaw?preview.text=Bienv&preview.text_type=custom');
 }  
 
+@font-face {
+  font-family: "Dancing Script";
+  font-style: normal;
+  src: url('https://fonts.google.com/specimen/Dancing+Script?preview.text=Bienvenue&preview.text_type=custom#standard-styles');
+}  
+
 /* CSS Menu */
 .ribbon{
     display: inline-block;
