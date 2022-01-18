@@ -3,6 +3,13 @@ text-align: center;
 background-color: hsl(22, 94%, 74%);
 background-image: radial-gradient(#fbab7e, #bc68ee);
 }
+
+@font-face {
+  font-family: "best";
+  font-style: normal;
+  src: url('fonts/best.otf');
+}  
+
 /* CSS Menu */
 .ribbon{
     display: inline-block;
