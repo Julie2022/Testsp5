@@ -83,11 +83,6 @@ font-family: 'Neonderthaw', cursive;
   font-size:10rem;
   margin-top:0vh;
   color:white;
-  /* font-family: 'Neonderthaw', cursive; */
-  animation-name:glow;
-  animation-duration:12s;
-  animation-iteration-count:infinite;
-  animation-direction:alternate;
 }
 
 
@@ -96,10 +91,6 @@ font-family: 'Dancing Script', cursive;
   font-size:4rem;
   margin-top:5vh;
   color:white;
-  /* font-family: 'Dancing Script', cursive; */
-  animation-name:glow;
-  animation-duration:12s;
-  animation-iteration-count:infinite;
-  animation-direction:alternate;
+
 }
 
