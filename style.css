@@ -75,7 +75,7 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 h1{
 font-family: 'Neonderthaw', cursive;
   font-size:4rem;
-  margin-top:45vh;
+  margin-top:5vh;
   color:white;
   /* font-family: 'Neonderthaw', cursive; */
   animation-name:glow;
@@ -86,8 +86,8 @@ font-family: 'Neonderthaw', cursive;
 
 h2{
 font-family: 'Neonderthaw', cursive;
-  font-size:6rem;
-  margin-top:-13vh;
+  font-size:10rem;
+  margin-top:0vh;
   color:white;
   /* font-family: 'Neonderthaw', cursive; */
   animation-name:glow;
