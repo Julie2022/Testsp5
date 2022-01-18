@@ -78,6 +78,20 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 /* Fin CSS Menu */
 
 
+
+h2{
+font-family: 'Neonderthaw', cursive;
+  font-size:10rem;
+  margin-top:0vh;
+  color:white;
+  /* font-family: 'Neonderthaw', cursive; */
+  animation-name:glow;
+  animation-duration:12s;
+  animation-iteration-count:infinite;
+  animation-direction:alternate;
+}
+
+
 h1 {
 font-family: 'Dancing Script', cursive;
   font-size:4rem;
@@ -91,14 +105,3 @@ font-family: 'Dancing Script', cursive;
 
 }
 
-h2{
-font-family: 'Neonderthaw', cursive;
-  font-size:10rem;
-  margin-top:0vh;
-  color:white;
-  /* font-family: 'Neonderthaw', cursive; */
-  animation-name:glow;
-  animation-duration:12s;
-  animation-iteration-count:infinite;
-  animation-direction:alternate;
-}
