@@ -1,7 +1,7 @@
-body{
-  text-align:center;
-background-color: hsl(272.33, 94.2%, 74.12%);
-background-image: repeating-radial-gradient(#a930d8, rgba(247, 206, 104, 0.78));
+body {
+text-align: center;
+background-color: hsl(22, 94%, 74%);
+background-image: radial-gradient(#fbab7e, #bc68ee);
 }
 /* CSS Menu */
 .ribbon{
