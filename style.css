@@ -73,11 +73,11 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 
 
 h1{
-font-family: 'Neonderthaw', cursive;
+font-family: 'Dancing Script', cursive;
   font-size:4rem;
   margin-top:5vh;
   color:white;
-  /* font-family: 'Neonderthaw', cursive; */
+  /* font-family: 'Dancing Script', cursive; */
   animation-name:glow;
   animation-duration:12s;
   animation-iteration-count:infinite;
