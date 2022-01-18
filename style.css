@@ -53,10 +53,10 @@
 }
 
 /* Titre début de page */
-.h1 { text-align: center;
+.Titre-débutpage { 
+  text-align: center;
   }
-.h2 { text-align: center;
-  }
+
 
 
 /* Fin Titre début de page */
