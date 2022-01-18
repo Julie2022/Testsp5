@@ -78,7 +78,7 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 /* Fin CSS Menu */
 
 
-h1{
+h1 {
 font-family: 'Dancing Script', cursive;
   font-size:4rem;
   margin-top:5vh;
@@ -88,6 +88,7 @@ font-family: 'Dancing Script', cursive;
   animation-duration:12s;
   animation-iteration-count:infinite;
   animation-direction:alternate;
+
 }
 
 h2{
