@@ -56,7 +56,17 @@
 .Titre-débutpage { 
   text-align: center;
   }
+font-familly:
 
 
 
 /* Fin Titre début de page */
+
+/* Img moi */
+.Imgmoi { 
+  text-align: center;
+  }
+.Imgmoi img{
+  }
+
+/* Fin Img moi */
