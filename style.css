@@ -77,7 +77,7 @@ background-image: radial-gradient(#fbab7e, #bc68ee);
 </div>;
 /* Fin CSS Menu */
 
-
+/* style h2 */
 <div>
 h2{
 font-family: 'Neonderthaw', cursive;
@@ -91,7 +91,9 @@ font-family: 'Neonderthaw', cursive;
   animation-direction:alternate;
 }
 </div>
+/* fin style h2 */
 
+/* style h2 */
 <div>
 h1{
 font-family: 'Dancing Script', cursive;
@@ -105,4 +107,4 @@ font-family: 'Dancing Script', cursive;
   animation-direction:alternate;
 }
 </div>
-
+/* fin style h2 */
